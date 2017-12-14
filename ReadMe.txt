@@ -1,6 +1,6 @@
-Mart Management System --Database Project
+# Mart-Management-System 
 	
-	This is developed for academic Purposes.Backend is coded in SQL.Frontend is implemented using HTML and CSS.
+	Mart Management System is website of a Database Management Project. The website's backend uses MySQL , an open-source relational database management system.Other parts of the website is built using PHP,HTML and CSS
 
 
 Developed By :
