@@ -7,4 +7,4 @@ database management system.Other parts of the website is built using PHP,HTML an
 Developed By :
 		Mohammad Akram
 		Sai Shiva Utharapally
-		Alapati Jyothi Swaroop
+		P.V.A.S.Avinash		
